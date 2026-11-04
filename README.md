@@ -4,6 +4,9 @@
 세팔론 아라 신규 버전을 이용해주세요
 
 https://github.com/CactusDream/cephalon-ara-releases
+## 공식 홈페이지
+
+https://cephalonara.xyz
 ---
 
 
